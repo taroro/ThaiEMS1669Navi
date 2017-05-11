@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">1669 Navi</string>
+    <string name="action_search">ค้นหา</string>
+    <string name="action_settings">ตั้งค่า</string>
+</resources>
